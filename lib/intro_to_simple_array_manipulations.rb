@@ -14,6 +14,10 @@ def using_uniq(haircuts)
   
 end
 
+def using_flatten()
+  
+end
+
 
 
 
