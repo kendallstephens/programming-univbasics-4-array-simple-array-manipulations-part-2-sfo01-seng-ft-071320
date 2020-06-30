@@ -9,6 +9,11 @@ def using_insert(list_of_programming_arrays, another_language)
   
 end
 
+def using_uniq()
+  
+  
+end
+
 
 
 
