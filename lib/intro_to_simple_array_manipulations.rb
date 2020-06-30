@@ -19,6 +19,10 @@ def using_flatten(instruments)
   
 end
 
+def using_delete()
+  
+end
+
 
 
 
