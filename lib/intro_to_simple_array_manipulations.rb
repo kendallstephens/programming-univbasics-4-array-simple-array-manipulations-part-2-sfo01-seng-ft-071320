@@ -5,7 +5,7 @@ end
 
 def using_insert(list_of_programming_arrays, another_language)
   
-  list_of_programming_arrays.insert[4](another_language)
+  list_of_programming_arrays.insert(another_language)
   
 end
 
